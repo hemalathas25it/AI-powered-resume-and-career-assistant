@@ -1,0 +1,6 @@
+{
+  "name": "CareerCraft AI - Resume & Career Assistant",
+  "description": "AI-powered resume builder, ATS analyzer, task prioritizer, portfolio tracker, interview prep coach, and career analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
